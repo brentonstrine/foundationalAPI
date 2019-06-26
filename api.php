@@ -2,10 +2,6 @@
 
 /* MOST SIMPLE API */
 
-/*
- * Add functions to class Methods
- * currently, the script supports the call api.php/test
- * */
 
 // respond as JSON
 //header("Content-Type: application/json");
